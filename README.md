@@ -37,3 +37,5 @@ In addition to the existing themes:
 - 🌙 Dark Theme
 - 🧈 Butter Theme
 
+#### Version
+Cinny Version: 4.11.1
