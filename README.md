@@ -1,6 +1,6 @@
 # Cinny Persian Edition
 
-A customized fork of [Cinny](https://github.com/cinnyapp/cinny) - Yet another Matrix client, enhanced with Persian/Farsi language support and additional visual themes.
+A customized fork of [Cinny](https://github.com/cinnyapp/cinny) - Yet another Matrix client, enhanced with Persian/Arabic language support and additional visual themes.
 
 ## 🌍 What's New
 
